@@ -1,0 +1,10 @@
+html,
+body {
+    height: 100%;
+}
+
+.myForm {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
